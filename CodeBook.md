@@ -16,4 +16,4 @@ For each record in the dataset it is provided:
 * Its activity label. 
 * An identifier of the subject who carried out the experiment.
 
-all information in this code book is copied directly from the website found here <a src=http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>uci human activity data set </a>
+all information in this code book is copied directly from the website found here <a src="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">uci human activity data set </a>
